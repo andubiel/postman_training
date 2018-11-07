@@ -1,1 +1,1 @@
-Postman Collection for YANG/RESTCONF 
+Postman Collection for RESTCONF 
