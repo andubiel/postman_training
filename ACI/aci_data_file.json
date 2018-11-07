@@ -1,0 +1,26 @@
+[
+  {
+    "new_tenant":	"Demo1",
+    "new_vrf": "vrf-demo1",
+    "app_profile":"demo1-App1",
+    "new_bd":	"bd-1",
+    "new_epg": "web1-epg",
+    "new_subnet":	"2.2.2.1/24",
+    "second_epg":	"app1-epg",
+    "new_contract":	"web-to-app1",
+    "vlan1": "10",
+    "vlan2": "11"
+  },
+  {
+    "new_tenant":	"Demo2",
+    "new_vrf": "vrf-demo2",
+    "app_profile":"demo2-App2",
+    "new_bd":	"bd-2",
+    "new_epg": "web2-epg",
+    "new_subnet":	"3.3.3.1/24",
+    "second_epg":	"app2-epg",
+    "new_contract":	"web-to-app2",
+    "vlan1": "12",
+    "vlan2": "13"
+  }
+]
